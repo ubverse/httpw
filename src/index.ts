@@ -1,6 +1,7 @@
 import axios, {
   AxiosError,
   AxiosRequestConfig,
+  AxiosResponse,
   AxiosResponseHeaders,
   HttpStatusCode,
   Method,
